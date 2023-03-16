@@ -30,6 +30,20 @@ body {
   color: rgba(238, 238, 238, 0.616);
 }
 
+.gay-text {
+    background-image: linear-gradient(to left,#ffffff, #98e9c1, #26cfaa, #068e70, #26cfaa, #98e9c1, #ffffff, #7bade2, #5049cb, #3d1a77, #5049cb, #7bade2);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: move 180s linear infinite;
+}
+
+@keyframes move {
+    to {
+        background-position: 4500vh;
+    }
+}
+
 ul {
   margin-top: 5px;
   list-style: none;
