@@ -70,6 +70,12 @@ a:visited {
 a:hover {
   color: rgba(238, 238, 238, 0.726);
 }
+
+u {
+    text-decoration:underline;
+    text-decoration-style: dotted;
+}
+
 /*# sourceMappingURL=index.css.map */
 
 #bottom-right {
