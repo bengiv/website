@@ -46,7 +46,6 @@ body {
 }
 
 ul {
-  margin-top: 5px;
   list-style: none;
   white-space: nowrap;
 }
@@ -74,13 +73,4 @@ a:hover {
 u {
     text-decoration:underline;
     text-decoration-style: dashed;
-}
-
-/*# sourceMappingURL=index.css.map */
-
-#bottom-right {
-  right: 0;
-  bottom: 0;
-  position: absolute;
-  color: rgba(238, 238, 238, 0.616);
 }
