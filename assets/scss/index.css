@@ -32,7 +32,7 @@ body {
 }
 
 .gay-text {
-    background-image: linear-gradient(to left,#ffffff, #98e9c1, #26cfaa, #068e70, #26cfaa, #98e9c1, #ffffff, #7bade2, #5049cb, #3d1a77, #5049cb, #7bade2);
+    background-image: linear-gradient(to left,#ffffff, #98e9c1, #26cfaa, #068e70, #26cfaa, #98e9c1, #ffffff, #7bade2, #5049cb, #3d1a77, #5049cb, #7bade2, #ffffff);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
