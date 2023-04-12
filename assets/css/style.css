@@ -40,7 +40,7 @@ body {
 }
 
 .eryn-cloud-text {
-    background-image: linear-gradient(to left,#004CFF, #8301CA);
+    background-image: linear-gradient(to left,#004CFF, #8301CA, #004CFF);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
