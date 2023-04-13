@@ -100,3 +100,7 @@ u {
     text-decoration:underline;
     text-decoration-style: dashed;
 }
+
+u:hover {
+  color: rgba(238, 238, 238, 0.726);
+}
