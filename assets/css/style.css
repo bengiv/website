@@ -40,13 +40,12 @@ body {
 }
 
 .eryn-cloud-text {
-    background-image: linear-gradient(to left,#8301CA, #004CFF, #8301CA);
+    background-image: linear-gradient(to left,#F643B6, #8301CA, #004CFF, #8301CA, #F643B6);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: move 270s linear infinite;
 }
-
 
 .mono-text {
     background-image: linear-gradient(to left,#ffffff, #d9d9d9, #a6a6a6, #595959, #58595b, #58595b, #595959, #a6a6a6, #d9d9d9, #ffffff);
@@ -103,4 +102,8 @@ u {
 
 u:hover {
   color: rgba(238, 238, 238, 0.726);
+}
+
+.red {
+  color: red;
 }
