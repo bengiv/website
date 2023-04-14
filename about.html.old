@@ -34,15 +34,9 @@
 
     <body>
         <div class="wrapper">
-            <h1 class="eryn-cloud-text">about me.</h1>
-                <a>
-                    <p>
-                        Hello! My name is Ben. I am a student and freetime photographer. I currently in a city near Munich in Germany.
-                        In my freetime I like to code and take & edit photos. Sometimes I also walk through Munich and drink 1-2 coffees.<br>
-                        <br>
-                        <a href="/about.html"><u>go back.</u></a>
-                    </p>
-                </a> 
+            <h1 class="eryn-cloud-text"><a href="about-me.html">about me.</a></h1>
+            <p style="font-size:12px; margin-top: 5px;">click ↑ or ↓</p>
+            <h1 class="eryn-cloud-text"><a href="about-website.html">about this website.</a></h1>
         </div>
     </body>
 </html>
