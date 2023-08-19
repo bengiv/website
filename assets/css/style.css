@@ -47,7 +47,7 @@ body {
     animation: move 270s linear infinite;
 }
 
-.eryn-cloud-text {
+.bi-text {
     background-image: linear-gradient(to left,#F643B6, #8301CA, #004CFF, #8301CA, #F643B6);
     -webkit-background-clip: text;
     background-clip: text;
@@ -69,6 +69,14 @@ body {
           background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: move 90s linear infinite;
+}
+
+.slow-rainbow-text {
+  background-image: linear-gradient(to left, red, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: move 270s linear infinite;
 }
 
 
